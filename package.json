@@ -1,0 +1,20 @@
+{
+  "name": "ordenamiento",
+  "version": "1.0.0",
+  "description": "metodos de ordenamiento",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-luisaguilar/metodos-ordenamiento.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-luisaguilar/metodos-ordenamiento/issues"
+  },
+  "homepage": "https://github.com/web-luisaguilar/metodos-ordenamiento#readme"
+}
